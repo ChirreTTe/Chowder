@@ -1,0 +1,1 @@
+A tener en cuenta, este proyecto fue realizado durante mi formación en etapa lectiva, donde pude desarrollar interfaces animadas, diferentes tipos de navegación, además de aplicar buenas practicas de codificación como la modularizarían. Mas adelante y con practica esto mejorara. 
